@@ -12,7 +12,7 @@ For instructors to collect feedbacks for challenges to make adjustments or impro
 
 Copy or clone this repository into CTFd/plugins:
 
-`git clone https://github.com/nus-ncl/ctfd-challenge-feedback.git`
+`git clone https://github.com/janvykopal/ctfd-challenge-feedback.git`
 
 ## Features
 
@@ -29,3 +29,7 @@ Copy or clone this repository into CTFd/plugins:
 ![Admin panel view](/docs/screenshot_1.png)
 
 ![Feedback form](/docs/screenshot_2.png)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
